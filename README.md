@@ -41,7 +41,7 @@
 
 ### 🏆 成就与贡献 (Contribution Graph)
 
-[![Streak Stats](https://streak-stats.demolab.com?user=[你的GitHub用户名]&theme=tokyonight)](https://git.io/streak-stats)
+[![Streak Stats](https://streak-stats.demolab.com?user=[big-cute-orange]&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
