@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&duration=4000&pause=1000&color=228B22&width=435&lines=Hi+there%2C+I'm+YourName!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React+%26+TypeScript+Enthusiast+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=31&duration=4000&pause=1000&color=a855f7&width=435&lines=Hi+there%2C+I'm+YourName!+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;React+%26+TypeScript+Enthusiast+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -33,8 +33,8 @@
 ### 📊 GitHub 统计 (Stats)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[big-cute-orange]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[big-cute-orange]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=big-cute-orange&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-cute-orange&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
