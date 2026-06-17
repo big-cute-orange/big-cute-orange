@@ -6,13 +6,13 @@
 
 ### 👋 关于我 (About Me)
 
-你好！我是 **[你的名字]**，一名热衷于构建极致用户体验的前端开发工程师。我喜欢将设计稿转化为像素级还原的代码，并致力于探索 Web 技术的边界。
+你好！我是 **一个橙子**，一名热衷于构建极致用户体验的前端开发工程师。我喜欢将设计稿转化为像素级还原的代码，并致力于探索 Web 技术的边界。
 
-- 🔭 **目前工作：** 正在 [公司名称/学校名称] 担任 [职位/专业]
-- 🌱 **正在学习：** [例如：Next.js, WebGL, Rust]
+- 🔭 **目前工作：** 待业中...
+- 🌱 **正在学习：** [Next.js]
 - 💬 **讨论话题：** React 生态, CSS 动画, 性能优化
-- 📫 **联系方式：** [你的邮箱地址]
-- ⚡ **座右铭：** *Code is poetry.* (或者换成你喜欢的格言)
+- 📫 **联系方式：** [1751108417@qq.com]
+- ⚡ **座右铭：** *Code is poetry.*
 
 ---
 
@@ -33,8 +33,8 @@
 ### 📊 GitHub 统计 (Stats)
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[big-cute-orange]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[big-cute-orange]&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -47,8 +47,6 @@
 
 ### 🤝 联系我 (Let's Connect)
 
-<a href="[你的掘金/CSDN/博客链接]" target="_blank"><img src="https://img.shields.io/badge/Blog-FF671F?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-<a href="mailto:[你的邮箱]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[你的推特/微博链接]" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:[1751108417@qq.com]" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p align="right">(<a href="#top">回到顶部</a>)</p>
