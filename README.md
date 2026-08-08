@@ -29,7 +29,7 @@
 
 ---
 
-### 🏆 成就与贡献 (Contribution Graph)
+### 📈 GitHub 活跃度 (Activity)
 
 [![Streak Stats](https://streak-stats.demolab.com?user=[big-cute-orange]&theme=tokyonight)](https://git.io/streak-stats)
 
