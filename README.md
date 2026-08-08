@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 GitHub 统计 (Stats)
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=big-cute-orange&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=big-cute-orange&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
----
-
 ### 🏆 成就与贡献 (Contribution Graph)
 
 [![Streak Stats](https://streak-stats.demolab.com?user=[big-cute-orange]&theme=tokyonight)](https://git.io/streak-stats)
